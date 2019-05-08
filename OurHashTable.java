@@ -1,3 +1,5 @@
-public class OutHashTable{
+public class OurHashTable{
 
-Du suger röv
+public static void main(String[] args) {
+	
+}
