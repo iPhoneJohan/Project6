@@ -1,5 +1,8 @@
-public class OurHashTable{
+public class OurHashTable<AnyType> {
 
-public static void main(String[] args) {
-	
+	private AnyType[] theArray;
+
+	public static void main(String[] args) {
+
+	}
 }
